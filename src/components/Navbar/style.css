@@ -1,0 +1,36 @@
+.nav{
+    padding: 13px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px rgb(220, 221, 217);
+    line-height: 2px;
+    align-items: center;
+}
+
+.nav .left{
+    display: flex;
+
+}
+.nav .left .menu{
+    display: flex;
+    margin-left: 40px;
+
+}
+.nav .left .menu li a{
+    text-decoration: none;
+    padding: 3px 16px;
+    font-size: 1.1rem;
+    color: rgb(66, 96, 126);
+    display: block;
+    font-size: 16px;
+}
+.nav .left .menu li a:hover{
+    color: rgb(12, 25, 37);
+}
+
+.nav .right .btnSignIn{
+    margin-right: 10px;
+}
+.logo{
+    font-weight: bold;
+}
