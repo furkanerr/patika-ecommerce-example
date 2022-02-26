@@ -1,5 +1,5 @@
 ### Proje Konusu
-Patika react kursunda örenk olarak anlatılan basit bir e-ticaret sitesi örneğidir. Projede authentication ve authorization yapıları oluşturulmuştur.
+Patika react kursunda örnek olarak anlatılan basit bir e-ticaret sitesidir. Projede authentication ve authorization yapıları oluşturulmuştur.
 State yönetimi için Context API kullanılmıştır.
 
 
