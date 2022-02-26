@@ -1,3 +1,8 @@
+### Proje Konusu
+Patika react kursunda örenk olarak anlatılan basit bir e-ticaret sitesi örneğidir. Projede authentication ve authorization yapıları oluşturulmuştur.
+State yönetimi için Context API kullanılmıştır.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
